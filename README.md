@@ -1,0 +1,2 @@
+# World-Bank-data-Analyser
+This is a desktop client that enables you to obtain economic data from the World Bank. Please note that the majority of the code here was "vibe coded" with the assistance of AWS Bedrock, although some edits had to be made to the code to ensure it works. It was built using the agentic IDE Kiro, Apache Netbeans and AWS Bedrock
